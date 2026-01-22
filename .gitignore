@@ -1,0 +1,15 @@
+# Ignore Java compiled files
+*.class
+
+# Ignore build folders (optional but recommended)
+bin/
+out/
+target/
+
+# Ignore IDE files (optional)
+.idea/
+.vscode/
+*.iml
+
+#So why is there IDE files if i am using nvim because this is created by ai and i am not going to modify it.
+#What if i got bored of nvim ok bye focus on ur study.
